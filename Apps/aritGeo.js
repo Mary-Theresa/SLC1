@@ -19,7 +19,13 @@ aritGeo: function(arr)
 	      ap++
 	    }
 	  } 
-	
+	for (i=1; i<=arr.length-1; i++)
+      {
+	    if (ratio === (arr[i+1] / arr[i]))
+	    {
+	      gp++
+	    } 
+	  }
 
 if (ap == arr.length-1)
 {
