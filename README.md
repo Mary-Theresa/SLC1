@@ -12,7 +12,7 @@ Tests: This contains jasmine tests for the three challenges.
 
 HOW TO USE:
 
-Clone this repository either by downloading a zipped copy and unzipping to folder of your choice on your local machine or by running 'git clone https://github.com/marytheresa/self-learning-clinic.git' on the command line after navigating to parent folder of your choice.
+Clone this repository either by downloading a zipped copy and unzipping to folder of your choice on your local machine or by running `git clone https://github.com/marytheresa/self-learning-clinic.git` on the command line after navigating to parent folder of your choice.
 
 Navigate to the repository folder, 'SLC1', on the command line.
 
