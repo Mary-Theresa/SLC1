@@ -1,0 +1,22 @@
+{
+  "name": "slc1",
+  "version": "1.0.0",
+  "description": "SLC1 Assignments",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mary-Theresa/SLC1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mary-Theresa/SLC1/issues"
+  },
+  "homepage": "https://github.com/Mary-Theresa/SLC1#readme",
+  "dependencies": {
+    "jasmine": "^2.5.3"
+  }
+}
