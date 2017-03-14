@@ -1,7 +1,9 @@
 {
-  "spec_dir": "spec",
+  "spec_dir": "Tests",
   "spec_files": [
-    "**/*[sS]pec.js"
+    "aritGeo.js",
+    "findMinMax.js",
+    "fizzBuzz.js"
   ],
   "helpers": [
     "helpers/**/*.js"
