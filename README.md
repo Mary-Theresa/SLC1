@@ -14,10 +14,10 @@ HOW TO USE:
 
 Clone this repository either by downloading a zipped copy and unzipping to folder of your choice on your local machine or by running `git clone https://github.com/marytheresa/self-learning-clinic.git` on the command line after navigating to parent folder of your choice.
 
-Navigate to the repository folder, 'SLC1', on the command line.
+Navigate to the repository folder, `self-learning-clinic`, on the command line.
 
-Run npm install to install the dependencies.
+Run `npm install` to install the dependencies.
 
 TESTING:
 
-To run the tests, run 'npm test'.
+To run the tests, run `npm test`.
